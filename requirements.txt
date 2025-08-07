@@ -1,0 +1,10 @@
+langchain==0.3.27
+langchain-community==0.3.27
+pydantic==2.11.7
+pydantic-settings>=2.4.0
+huggingface-hub>=0.34.3
+text_generation
+streamlit
+python-dotenv
+faiss-cpu
+sentence-transformers       
