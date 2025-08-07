@@ -1,0 +1,22 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore system files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Ignore big model/data files
+*.pkl
+*.pdf
+*.csv
+*.dll
+*.lib
+
+# VS Code settings
+.vscode/
+
+# Ignore vectorstore files
+vectorstores/
