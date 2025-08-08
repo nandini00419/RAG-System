@@ -4,6 +4,7 @@ venv/
 *.pkl
 *.lib
 *.dll
+*.venv311
 
 # Ignore system files
 __pycache__/
